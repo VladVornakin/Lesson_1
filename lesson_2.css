@@ -1,0 +1,50 @@
+h1 {
+    background: red;
+}
+
+
+h2 {
+    background: pink;
+    size: 15px;
+}
+
+
+h3 {
+    background: purple;
+    size: 25px;
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.paragraph-3 {
+    background: orange;
+    font-size: 16pt;
+    color: blueviolet;
+    border: 5px solid black;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+}
+
+.paragraph-4 {
+    background: orange;
+    font-size: 16pt;
+    color: rgb(255, 0, 208);
+    border: 5px solid black;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+}
